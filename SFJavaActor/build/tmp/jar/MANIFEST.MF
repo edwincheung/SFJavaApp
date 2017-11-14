@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Class-Path: lib/asm-commons-5.0.4.jar lib/sf-transport-1.0.0-preview1.
+ jar lib/asm-5.0.4.jar lib/asm-util-5.0.4.jar lib/gson-2.7.jar lib/sf-
+ services-1.0.0-preview1.jar lib/asm-tree-5.0.4.jar lib/sf-actors-1.0.
+ 0-preview1.jar lib/sf-1.0.0-preview1.jar lib/sfjavaactor-interface.ja
+ r lib/asm-commons-5.0.4.jar lib/sf-transport-1.0.0-preview1.jar lib/a
+ sm-5.0.4.jar lib/asm-util-5.0.4.jar lib/gson-2.7.jar lib/sf-services-
+ 1.0.0-preview1.jar lib/asm-tree-5.0.4.jar lib/sf-actors-1.0.0-preview
+ 1.jar lib/sf-1.0.0-preview1.jar lib/sf-actors-1.0.0-preview1.jar lib/
+ sf-services-1.0.0-preview1.jar lib/sf-transport-1.0.0-preview1.jar li
+ b/gson-2.7.jar lib/asm-commons-5.0.4.jar lib/asm-util-5.0.4.jar lib/a
+ sm-tree-5.0.4.jar lib/asm-5.0.4.jar lib/sf-1.0.0-preview1.jar lib/sf-
+ native-1.0.0-preview1.jar
+Main-Class: reliableactor.SFJavaActorHost
+

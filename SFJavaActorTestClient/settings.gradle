@@ -1,0 +1,3 @@
+include ':SFJavaActorInterface'
+
+project(':SFJavaActorInterface').projectDir = new File(settingsDir, '../SFJavaActorInterface')

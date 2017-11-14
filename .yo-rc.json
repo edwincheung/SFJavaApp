@@ -1,0 +1,12 @@
+{
+  "generator-azuresfcsharp": {
+    "projName": "SFLabApp",
+    "frameworkType": "Reliable Actor Service",
+    "author": "<your name>"
+  },
+  "generator-azuresfjava": {
+    "projName": "SFJavaApp",
+    "frameworkType": "Reliable Actor Service",
+    "author": "<your name>"
+  }
+}
