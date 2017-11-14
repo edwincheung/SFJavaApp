@@ -59,6 +59,6 @@ public class SFJavaActorImpl extends FabricActor implements SFJavaActor {
     public CompletableFuture<?> setCountAsync(int count) {
         logger.log(Level.INFO, "Setting current count value {0}", count);
        
-        return this.stateManager().addOrUpdateStateAsync("count", count, (key, value) -> count > value ? count : value);
+        return this.stateManager().addOrUpdateStateAsync("count", count, (key, value) -> count > value ? count+10 : value);
     }
 }
